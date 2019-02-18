@@ -1,8 +1,16 @@
+# Canvas practice
+
+I have created this static website in order to show what I've learnt so far using HTML5 canvas.
+
+## Recognition
+
+You can create cool canvas animations too, just by following @christopher4lis youtube tutorials!
+
 Canvas Boilerplate is the go-to solution for quickly creating modern canvas pieces using ES6 and webpack.
 
-## Getting Started
+## Getting Started With a Boilerplate!
 
-1.  Clone the repo:
+1.  Clone the repo for boilerplate if you'd like to create your own:
 
         git clone https://github.com/christopher4lis/canvas-boilerplate.git
 

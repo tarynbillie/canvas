@@ -81,22 +81,22 @@
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = "./src/canvas.js");
+/******/ 	return __webpack_require__(__webpack_require__.s = "./src/Gravity/GravityCanvas.js");
 /******/ })
 /************************************************************************/
 /******/ ({
 
-/***/ "./src/canvas.js":
-/*!***********************!*\
-  !*** ./src/canvas.js ***!
-  \***********************/
+/***/ "./src/Gravity/GravityCanvas.js":
+/*!**************************************!*\
+  !*** ./src/Gravity/GravityCanvas.js ***!
+  \**************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
 
 
-var _utils = __webpack_require__(/*! ./utils */ "./src/utils.js");
+var _utils = __webpack_require__(/*! ../utils */ "./src/utils.js");
 
 // initial setup
 var canvas = document.querySelector('canvas');

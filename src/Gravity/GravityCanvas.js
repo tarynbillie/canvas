@@ -1,4 +1,4 @@
-import { randomIntFromRange, randomColor, distance } from './utils'
+import { randomIntFromRange, randomColor, distance } from '../utils'
 
 // initial setup
 const canvas = document.querySelector('canvas')
@@ -84,7 +84,6 @@ function Ball(x, y, dx, dy, radius, color) {
     }
 }
 
-
 // Implementation
 var ball;
 var ballArr = [];
@@ -115,5 +114,5 @@ function animate() {
 
 }
 
-init()
-animate()
+init();
+animate();

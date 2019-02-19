@@ -168,7 +168,7 @@ function Ball(x, y, dx, dy, radius, color) {
         c.arc(_this.x, _this.y, _this.radius, 0, Math.PI * 2, false);
         c.fillStyle = _this.color;
         c.fill();
-        // c.stroke();
+        // c.stroke()
         c.closePath();
     };
 }
